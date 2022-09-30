@@ -1,4 +1,6 @@
 # Election Data Project: Project Overview
+
+## Project Introduction
 * This Data Project is an EDA project looking at data from the 2012 election, drilling into 2 main datasets: Polls and Donors
 * For the Poll Dataset, I analyzed and visualized the demographic of the people being polled and how their sentiments change over time 
 * For the Donors Dataset, I also analyzed and visualized the patterns and demographic of donors and their donations
